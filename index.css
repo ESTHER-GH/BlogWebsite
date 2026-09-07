@@ -1,0 +1,276 @@
+.center {
+    text-align: center;
+}
+.unknown {
+    background-color: black;
+    color: white;
+    padding: 3px 7px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body{
+    width: 100vw;
+    font-family: "Raleway", sans-serif;
+    font-size: 10px;
+    overflow-x: hidden;
+}
+
+.image {
+    width: 100%
+}
+
+.comment {
+    font-size: large;
+}
+
+.card1 {
+    box-shadow: 0px 2px 6px 0 black;
+}
+.center {
+    font-size: larger;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    border: 5px;
+}
+
+.welcome {
+    font-size: medium;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.title {
+    padding: 10px;
+    margin-top: 1px;
+    margin-bottom: 5px;
+}
+
+.date {
+    color: gray
+}
+
+.description {
+    font-size: medium;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.p {
+    font-style: normal;
+    font-size: medium;
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 0.5%;
+    width: 100vw
+}
+.left {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 63%
+}
+.right{
+    width: 31%
+}
+
+.button {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+}
+
+button:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
+.btn {
+    padding: 10px;
+}
+
+.known {
+    background-color: black;
+    color: white;
+    padding: 2px 5px;
+}
+
+.known2 {
+    border-radius: 50%;
+}
+
+.p2 {
+    line-height: 1.5;
+    font-style: normal;
+    font-size: medium;
+    margin-top: 15px;
+}
+.footer {
+    width: 100%;
+    padding: 30px 80px 70px 20px;
+    margin-top: 50px;
+    background-color: gray;
+}
+
+.button2 {
+    justify-content: space-around;
+}
+
+.pbtn {
+    background-color: darkgray;
+    color: gray;
+    align-items: center;
+    padding: 10px 20px;
+    font-size: medium;
+}
+
+.nbtn {
+    background-color: black;
+    color: white;
+    font-size: medium;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.ftext {
+    color: white;
+    margin-top: 30px;
+    font-size: medium;
+}
+
+.ptitle {
+    background-color: lightgrey;
+    margin-top: 30px;
+    padding: 20px 80px 20px 20px;
+    font-style: normal;
+    font-size: large;
+}
+
+.plorem {
+    width: 15%;
+    padding: 20px 5px 20px 15px;
+}
+
+.lorem {
+    display: flex;
+    flex-direction: row;
+}
+
+.Llorem {
+    padding: 25px 50px 15px 10px;
+    line-height: 1.5;
+}
+
+.Lorem {
+    font-size: large;
+}
+
+.Sed {
+    font-size: medium;
+}
+
+.pipsum {
+    width: 15%;
+    padding: 20px 5px 20px 15px;
+}
+
+.ipsum {
+    display: flex;
+    flex-direction: row;
+}
+
+.Iipsum {
+    padding: 25px 50px 15px 10px;
+    line-height: 1.5;
+}
+
+.Ipsum {
+    font-size: large;
+}
+
+.Praes {
+    font-size: medium;
+}
+
+.pdorum {
+    width: 15%;
+    padding: 20px 5px 20px 15px;
+}
+
+.dorum {
+    display: flex;
+    flex-direction: row;
+}
+
+.Ddorum {
+    padding: 25px 50px 15px 10px;
+    line-height: 1.5;
+}
+
+.Dorum {
+    font-size: large;
+}
+
+.Ultricies {
+    font-size: medium;
+}
+
+.pmingsum {
+    width: 15%;
+    padding: 20px 5px 20px 15px;
+}
+
+.mingsum {
+    display: flex;
+    flex-direction: row;
+}
+
+.Mmingsum {
+    padding: 25px 50px 15px 10px;
+    line-height: 1.5;
+}
+
+.Mingsum {
+    font-size: large;
+}
+
+.Dipsum {
+    font-size: medium;
+}
+
+.ttitle {
+    background-color: lightgrey;
+    margin-top: 30px;
+    padding: 15px 80px 20px 15px;
+    font-style: normal;
+    font-size: large;
+}
+
+.subtags {
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px 15px 15px;
+    line-height: 3.5;
+}
+
+.Travel {
+    background-color: black;
+    color: white;
+    padding: 1px 6px 1px 6px;
+    font-size: medium;
+}
+
+.BTN {
+    background-color: lightgray;
+    padding: 1px 4px 1px 4px;
+}
